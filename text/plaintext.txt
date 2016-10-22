@@ -1,0 +1,212 @@
+I am a young developer & an engineering student, and you are welcome to my web-portfolio.
+I currently work as an apprentice DevOps engineer & Scala developer at the Orange
+                    company. I have the opportunity to work with DevOps tools such as Jenkins,
+                    Travis, Scala SBT, Docker, Ansible, and also to learn how the
+                    application performance management works in the Orange's Application Performance Experts team.
+I am highly motivated by the Big Data in general, and about technologies such as Machine
+                        learning, etc. I am constantly learning (by myself, or at school) about these subjects, and
+                    I definitely want to go further and study in that field after being graduated at ENSSAT. Let me know
+                    if you are interested in my profile for a potential internship in this domain!
+You will find on this website some information about me, my skills, and about some of my
+                    projects.
+22 y-o
+Rennes city - France
+Guitarist / Singer / Music player & lover
+Play badminton twice a week, occasional swimmer, love long hikes and nature activities
+Currently: ERASMUS in Roskilde University, Denmark.
+2014 - 2017: student at the engineering school ENSSAT
+                    Lannion - Computing Science
+2014: D.U.T
+                    
+                        GEII
+                    ,
+                    Rennes (Technical Degree in Electronics & Computing Sciences) 
+Coursera platform: following the Scala specialisation, started (but not
+                    finished yet) the Recommender
+                        systems course.
+                
+FUN MOOC: followed Fondamentaux pour
+                        le Big Data in end of August 2016.
+2016 : Japan (15 days), Lisboa (7 days), Ireland (10 days), Denmark (5
+                    months)
+2015 (30 days): Scotland, Glasgow
+2014 (3 months): Ireland, Athlone AIT during
+                    an internship
+& many others. . .
+French: native
+English: fluent & good technical skills (B2 level)
+Spanish: basic knowledge
+Danish: basic knowledge
+Functional programming: Scala, 2 years experience, daily use. Currently following the Scala specialisation on Coursera.
+Git: Daily use, advanced workflow (branch, checkout, tags, ...).
+Object-oriented programming: Java, 3 years experience, several projects.
+Web: PHP, HTML5 / CSS3, JavaScript, Wordpress, Scala Play, JEE.
+C: robust experience (loop invariant, strict methodology & concepts, graphs).
+Databases: SQL (MySQL, PostgreSQL...) / NoSQL (MongoDB)
+I have a good knowledge of continuous delivery. I do not like to
+                        repeat painful things, especially when it concerns the test & delivery of a
+                        software I'm developing. I like to be a "lazy" (but smart though...) developer.
+                        Docker, Jenkins,
+                        SBT and Ansible are
+                        working for me to deliver my work.
+I make strong efforts to test my tools and software: without tests, the solutions are
+                        not maintainable, plus it assures a non-regression of the code: and that is everything we want,
+                        right? I am using SBT to test my code (because SBT is waaaaay cool and powerful). I follow a
+                        Test-Driven Development process at work, and also for personal projects.
+Jenkins is working hand by hand with Docker to build web and Java projects
+                        automatically. A push on GitHub, and "voilÃ ", everything is packaged and
+                            ready (without any intervention from me), that's all folks.
+All the services I try / use are deployed on my faithful Docker. I can count on its
+                        simplicity and reliability for every environment I need.
+Click on a project to learn more!
+
+                        
+                            
+                        
+                            
+                    
+Clone of Boulder Dash, done
+                        in
+                        Java, use of MVC pattern.
+
+                        
+                            
+                        
+                            
+                        
+                            
+                    
+Website coded using CodeIgniter, PHP, Javascript / AJAX.
+IDs to play: USERNAME: bvozel, PASSWORD: servicesENSSAT
+
+                        
+                            
+                    
+Use of UML and UP methodologies to design a fictive application.
+The product is an app which will rationalize the means of transports in a city.
+
+                        
+                            
+                        
+                            
+                    
+Use of Scala, SBT and Git. Tests provided in "src/test" (eh, we are not
+                        uncivilized here, just trying to do a little DevOps...)
+
+                        
+                            
+                    
+School project; subject: decentralized and distributed system. Communication
+                        between fictive atomics shelters. Use of critical section and mutex to make the communications
+                        secure and parallel.
+Use of Java and Java RMI.
+
+                        
+                            
+                        
+                            
+                    
+School project; subject: creation of a fictive travel agency's database. Modeling of the
+                    database with entity/relationship models.
+Use of MySQL (stored procedures, triggers, views...).
+
+                        
+                            
+                        
+                            
+                    
+Presentation & tutorial about JMeter: the basis.
+Use of reveal.js / HTML.
+
+                        
+                            
+                        
+                            
+                    
+Use of Matlab to develop face recognition with the Eigenfaces.
+
+                        
+                            
+                        
+                            
+                    
+Use of Scilab to do a little bit of image processing, with the Canny's algorithm.
+
+                        
+                            
+                        
+                            
+                    
+Use of Python & Scikit lib to experiment with machine learning algorithms, such as
+                        Linear regression, Trees, Random Forests... Work in pairs with Anais GALISSON.
+
+                        
+                            
+                        
+                            
+                        
+                            
+                    
+Use of Javascript, HTML/CSS and OpenGL to develop a solar system simulation.
+                    
+
+                        
+                            
+                    
+Use of Sketch to design a website for an association.
+In this project, the goal was more to think about choices of implementation & designs than coding
+                        the website itself.
+
+                        
+                            
+                    
+Cisco innovation challenge. Main goal: think about society/environment problems, and imagine a
+                        product or a service to solve this problem. In three words: change the world!
+Team of 6 persons from ENSSAT engineering school.
+
+                        
+                            
+                    
+Management project at ENSSAT. I was teaching computing science at primary school.
+                        Group of ~25 children, from 8 to 10. We prepared our interventions during one year: exercises,
+                        pedagogy,...
+Use of Scratch to give basis of programming.
+
+                        
+                            
+                    
+Article concerning the Load testing fundamentals - state of the art.
+Information about processes, tools and methods used in load testing.
+
+                    Email:
+                    
+                        
+                        colinleverger@gmail.com
+                    
+                
+
+                    Phone:
+                    
+                        
+                        +33 (0)633 504722
+                    
+                
+
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                
+
+                    Made with 
+                        from France, last update mid Oct 2016.
+                    
+                
