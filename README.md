@@ -1,4 +1,4 @@
-# Yet another Wordcloud function in R
+# Yet another Wordcloud generator in R
 
 I am playing with R at the moment, and I wrote a script to create a wordcloud with my personal website.
 
